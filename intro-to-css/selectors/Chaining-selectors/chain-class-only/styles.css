@@ -1,0 +1,14 @@
+
+.subsection.header.preview {
+    font: 100px;
+}
+
+
+/* Chaining selectors */
+/* Applying a separate rule to element that has header */
+
+.subsection.preview {
+    background-color: black;
+    color: red;
+}
+

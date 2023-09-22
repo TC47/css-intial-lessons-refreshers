@@ -1,0 +1,13 @@
+/* Descendant combinators with class selectors */
+* {
+    background-color: black;
+    color: white;
+}
+
+.parent .child {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    background-color: black;
+    color: white
+
+}

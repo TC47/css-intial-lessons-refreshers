@@ -1,0 +1,12 @@
+/* using type selectors */
+
+/* a type selector will select all elements fo the given element type, and the syntax is just the name of the element: */
+
+/* styles */
+
+div {
+   color: white;
+   background-color: black;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}

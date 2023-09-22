@@ -1,0 +1,24 @@
+/* styles */
+
+
+/* using grouping selector option */
+
+/* #parent #child1,
+#parent #child2,
+#parent #grandchild
+ {
+    font-size: 40px;
+    color: red;
+} */
+
+/* Chaining selector */
+
+/* using chaining selectors */
+
+#parent#child1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    
+}
+
