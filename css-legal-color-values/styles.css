@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.red-text {
+    color: #ff0000; /* red */
+}
+
+.green-text {
+    color: #00ff00; /*green */
+}
+
+.blue-text {
+    color: rgb(0 ,0 ,255);
+}
+
+.semi-transparent-red {
+    color: #ff000080;
+}
+
+.lime-green {
+    color: hsl(120, 60%, 70%); /* pastel green hsl(hue, saturation, lightness) */
+}

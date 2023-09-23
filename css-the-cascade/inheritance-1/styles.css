@@ -1,0 +1,11 @@
+/* styles.css */
+
+#parent {
+    color: red;
+}
+
+.child {
+    color: blue;
+}
+
+/* Typography based properties (color, font-size, font-family, etc.) are usually inherited, while most other properties aren’t.*/

@@ -1,0 +1,18 @@
+/* styles */
+
+* {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+
+/* rule -1 */
+.class.second-class {
+    color: green;
+}
+
+/* rule -2 */
+.class .second-class{
+     color: pink;
+}

@@ -1,0 +1,12 @@
+/* rule 1 */
+.subsection {
+    color: blue;
+
+}
+
+/* rule 2 */
+.main .list {
+    color: red;
+}
+
+/* rule 2 is more specific and would be applied */

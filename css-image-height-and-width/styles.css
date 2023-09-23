@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+
+.para {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
