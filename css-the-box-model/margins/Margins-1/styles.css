@@ -1,0 +1,44 @@
+.box  {
+    margin: 0 3em 0 3em;
+    border: solid red 2px;
+}
+
+.box2 {
+    border: solid blue 2px;
+    margin: 2em 2em 2em 2em;
+    padding: 3px 3px 3px 3px
+}
+
+.box3 {
+    margin: 0 1.5em;
+    border:solid black 2px;
+}
+
+.box4 {
+    margin: 0 1.5em 0 1.5em;
+    border: solid black 2px;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+    border: solid blue 2px;
+}
+
+.container2 {
+    border: solid red 2px;
+    width: 980px;
+    /* margin: 0 auto; */
+}
+
+/* margin collapsing */
+
+h2 {
+    border: solid red 2px;
+    margin: 0 0 20px 0;
+}
+
+p {
+    border: solid black 2px;
+    margin: 10px 0 0 0;
+}

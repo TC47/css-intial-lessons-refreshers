@@ -1,0 +1,24 @@
+/* change my margin */
+
+
+
+
+
+.container {
+    border: solid blue 2px;
+}
+
+.one,
+.two {
+    border: solid purple 2px;
+}
+
+  
+.one {
+    margin-bottom: 50px;
+  }
+  
+  .two {
+    margin-top: 30px;
+  }
+      
