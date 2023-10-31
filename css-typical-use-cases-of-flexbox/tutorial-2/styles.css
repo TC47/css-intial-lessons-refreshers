@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.card {
+   
+    
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid brown;
+    }
+
+  
+  .card .content {
+    flex: 1 1 auto;
+  }

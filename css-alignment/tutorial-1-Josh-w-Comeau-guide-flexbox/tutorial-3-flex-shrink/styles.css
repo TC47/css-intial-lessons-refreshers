@@ -1,0 +1,22 @@
+.container {
+    display: flex; /* Set the container to use flexbox */
+    justify-content: center; /* Center the items horizontally */
+    align-items: center; /* Center the items vertically */
+    height: 300px; /* Set a fixed height for the container */
+    background-color: #f0f0f0; /* Background color for the container */
+}
+
+.item1, .item2, .item3 {
+   /*  flex: 1; */ /* Distribute available space equally among items */
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.item1 {
+    flex: 1;
+}
+
+.item2 {
+    flex: 3;
+}

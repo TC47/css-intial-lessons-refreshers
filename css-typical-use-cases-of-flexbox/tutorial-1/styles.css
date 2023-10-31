@@ -1,0 +1,28 @@
+nav ul{
+    display:flex;
+    
+    list-style-type: none;
+    border: 2px solid red;
+    margin:50px;
+    height: 100px;
+    padding: 30px;
+    gap: 20px;
+    align-items: end;
+}
+
+
+nav li {
+    /* flex: 1; */
+    /* flex-wrap: wrap; */
+       }
+
+a {
+    border: 2px solid blue;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+.push-right {
+    margin-left: auto;
+    align-self: center;
+}

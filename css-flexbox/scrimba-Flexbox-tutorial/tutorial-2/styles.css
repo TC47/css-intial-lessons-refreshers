@@ -1,0 +1,11 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+
+.container > div {
+  /*  flex: 1; */
+  width: 50%;
+
+    /* shorthand for /*flex-grow, flex-shrink, flex-basis */
+}
