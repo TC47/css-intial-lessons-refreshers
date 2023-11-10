@@ -1,0 +1,25 @@
+img {
+    max-width: 100px;
+    padding: 10px;
+    border: 2px solid #000000;
+    margin: 10px; 
+    flex: 1;
+  }
+  
+  .media {
+    
+    display: flex;
+    align-items: flex-start;
+    border: 5px dotted blue;
+  }
+  
+  .media .content {
+    flex: 3;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .media.flipped {
+    flex-direction: row-reverse;
+  }
+    

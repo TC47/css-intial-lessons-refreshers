@@ -1,0 +1,42 @@
+
+
+.container {
+    display: flex;
+    background-color: blueviolet;
+    border: 5px solid tomato;
+    height: 600px;
+    
+    /*flex-direction: column;*/
+    /*flex-direction: column-reverse;*/
+    flex-wrap: wrap;
+    /*justify-content: space-around;*/
+    /*align-items: center; */
+    gap: none;
+
+  
+}
+
+.one, .two, .three, .four, .five {
+    background-color: tomato;
+    border: 2px solid black;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    /*margin: auto; */
+    line-height: 100px;
+    color: white; 
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    /* flex: 1; */
+    /* flex-basis: 10rem; */
+}
+
+.one {
+    /* order: 3; */
+    /* flex-shrink: 5; */
+    /*align-self: flex-end;*/
+    margin-right: auto; 
+}
